@@ -1,6 +1,6 @@
 "use strict";
 
-const Node = require("../Stack/Node");
+const Node = require("../Node");
 
 describe("Node class", () => {
   it("test create an instance of Node", () => {
