@@ -1,6 +1,6 @@
 "use strict";
 
-const Stack = require("../Stack/Stack");
+const Stack = require("../StackAndQueue/Stack");
 
 describe("Stack class", () => {
   it("test create an instance of Stack", () => {
